@@ -1,0 +1,172 @@
+{
+  "username": "supremeclube.vv",
+  "fullName": "Supreme Clube",
+  "biography": "O lugar onde TUDO  tem solução ❤️\n✂️Barbearia & ✨Estética Automotiva\n📍Av saturnino rangel Mauro 405 - Praia de Itaparica\n📲⬇️",
+  "profilePicture": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/643104854_17973202458006185_1363467039038653618_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44ODAuYzIifQ&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEdjLK3hTRSI9KYmSJOfcLP2QCgpz6oibdw87ra8Y0X102AFRHHShPbfAv0kxWOjKk&_nc_ohc=prHzg7ttNfAQ7kNvwFkoBMW&_nc_gid=3rbrS1T03PVcTFE07MXPhA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQLDYt_0MF0Ha3VSZQ1qpFV436cTC1nyZkDq7k74cBi-dg&oe=6A9B37F5&_nc_sid=8b3546",
+  "externalLinks": [
+    {
+      "title": "",
+      "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Fwa.me%2F5527992977721%3FcountryName%3DBR%26countryCode%3D55%26phoneNumber%3D27992977721&e=AUCe-luebByHeYkUOBkIR1JMdQUayqg8twZNzoCwehSJoRtzFqHMaa20CKc1n85VuPRsEg-o_dHsDJGSb0HARkeZugzFCtEt",
+      "url": "https://wa.me/5527992977721?countryName=BR&countryCode=55&phoneNumber=27992977721",
+      "link_type": "whatsapp"
+    }
+  ],
+  "edgeOwnerToTimelineMedia": [
+    {
+      "id": "3897628832696995205",
+      "shortcode": "DYXKMXXOY2F",
+      "typename": "GraphVideo",
+      "caption": "Atacamos novamente ! Olha esse resultado ? O que está faltando para você fazer o seu ? \n\n- vitrificação com garantia de 05 anos \n- polimento de duas etapas até o carro atingir brilho máximo \n- selante toda vez que lavar sem custo adicional \n- atendimento único ❤️ \n\nVem ser supreme você também 🚀❤️\n\n#vilavelha #autodetailing #vitrificação #lavajato",
+      "displayUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/701696507_1499515471723169_5279399452118503538_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEdjLK3hTRSI9KYmSJOfcLP2QCgpz6oibdw87ra8Y0X102AFRHHShPbfAv0kxWOjKk&_nc_ohc=9OkxIasAzwQQ7kNvwHhIbW0&_nc_gid=3rbrS1T03PVcTFE07MXPhA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQJEWR3DE0oLPrXWEqzsqVk7eJGPdAmV2f3h-b021U2Ecw&oe=6A9B4DD3&_nc_sid=8b3546",
+      "thumbnailUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/701696507_1499515471723169_5279399452118503538_n.jpg?stp=c0.248.640.640a_dst-jpg_e15_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEdjLK3hTRSI9KYmSJOfcLP2QCgpz6oibdw87ra8Y0X102AFRHHShPbfAv0kxWOjKk&_nc_ohc=9OkxIasAzwQQ7kNvwHhIbW0&_nc_gid=3rbrS1T03PVcTFE07MXPhA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQL1DWpg0C4t4EBrGFqfh-O0_sJeTEPMgQXQv-9vrg2glw&oe=6A9B4DD3&_nc_sid=8b3546",
+      "isVideo": true,
+      "dimensions": {
+        "height": 1136,
+        "width": 640
+      }
+    },
+    {
+      "id": "3602603989402960685",
+      "shortcode": "DH_BT2uxMMt",
+      "typename": "GraphVideo",
+      "caption": "Já conhece a melhor estética automotiva da região !? Apresentamos a Supreme Clube, o lugar mais completo e confortável da grande Vitória, desde a lavagem comercial até a Vitrificação, vem com a gente ! \n\n#vilavelha #auto #vixx #estetica #lavajato #autodetailing #polimento",
+      "displayUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-15/488311204_17936707140006185_4778895263360630898_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEdjLK3hTRSI9KYmSJOfcLP2QCgpz6oibdw87ra8Y0X102AFRHHShPbfAv0kxWOjKk&_nc_ohc=tkDXIZc0d7EQ7kNvwHBfsEX&_nc_gid=3rbrS1T03PVcTFE07MXPhA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQLL_vwjAZV-Ts6yel_qcFQ2_bCzJqbNo0NCKO4qZnBL-A&oe=6A9B4C57&_nc_sid=8b3546",
+      "thumbnailUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.2885-15/488311204_17936707140006185_4778895263360630898_n.jpg?stp=c0.280.720.720a_dst-jpg_e15_s640x640_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEdjLK3hTRSI9KYmSJOfcLP2QCgpz6oibdw87ra8Y0X102AFRHHShPbfAv0kxWOjKk&_nc_ohc=tkDXIZc0d7EQ7kNvwHBfsEX&_nc_gid=3rbrS1T03PVcTFE07MXPhA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQKwm6dIPBzt0TKLag2ST6CpKKSWU1vpHCV0-KBc2_HWvA&oe=6A9B4C57&_nc_sid=8b3546",
+      "isVideo": true,
+      "dimensions": {
+        "height": 1333,
+        "width": 750
+      }
+    },
+    {
+      "id": "3814490107546617120",
+      "shortcode": "DTvyorzjsUg",
+      "typename": "GraphVideo",
+      "caption": "Brilho, cuidado e acabamento impecável✨ quando a lavagem é bem feita, o resultado fala por si só🚿🚘\n\n☑️ segurança \n☑️Brilho\n☑️proteção \n☑️carro renovado \n.\n.\n.\n.\n.\n#lavagem #esteticaautomotiva #carro #detalhes #detalhamentoautomotivo",
+      "displayUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/619293482_17969121420006185_8008058316622540785_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEdjLK3hTRSI9KYmSJOfcLP2QCgpz6oibdw87ra8Y0X102AFRHHShPbfAv0kxWOjKk&_nc_ohc=YHQCy2yDqvcQ7kNvwHex22s&_nc_gid=3rbrS1T03PVcTFE07MXPhA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQISLMZZjPvjqAo79WzlmjgXR81cbkZa0L-9e5XPjsklpw&oe=6A9B413D&_nc_sid=8b3546",
+      "thumbnailUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/619293482_17969121420006185_8008058316622540785_n.jpg?stp=c0.882.2268.2268a_dst-jpg_e35_s640x640_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEdjLK3hTRSI9KYmSJOfcLP2QCgpz6oibdw87ra8Y0X102AFRHHShPbfAv0kxWOjKk&_nc_ohc=YHQCy2yDqvcQ7kNvwHex22s&_nc_gid=3rbrS1T03PVcTFE07MXPhA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQIpWYtpO413RqI6wjqQDKTaLm5xJhCMuZCP1IeNkxPjQg&oe=6A9B413D&_nc_sid=8b3546",
+      "isVideo": true,
+      "dimensions": {
+        "height": 1920,
+        "width": 1080
+      }
+    },
+    {
+      "id": "3972304542539368617",
+      "shortcode": "Dcgde9tusip",
+      "typename": "GraphVideo",
+      "caption": "Vitrificação no precinho!? Vota aqui e garante seu DESCONTO!!",
+      "displayUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/782511351_17999486799006185_8768766220217619846_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEdjLK3hTRSI9KYmSJOfcLP2QCgpz6oibdw87ra8Y0X102AFRHHShPbfAv0kxWOjKk&_nc_ohc=fg-fwEjpDUMQ7kNvwEVXFlY&_nc_gid=3rbrS1T03PVcTFE07MXPhA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQJo0rbQgMHg8j0je6yy5UJlssZeHUn9V0Ue9LDusgeE8w&oe=6A9B4F03&_nc_sid=8b3546",
+      "thumbnailUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/782511351_17999486799006185_8768766220217619846_n.jpg?stp=c0.280.720.720a_dst-jpg_e15_s640x640_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEdjLK3hTRSI9KYmSJOfcLP2QCgpz6oibdw87ra8Y0X102AFRHHShPbfAv0kxWOjKk&_nc_ohc=fg-fwEjpDUMQ7kNvwEVXFlY&_nc_gid=3rbrS1T03PVcTFE07MXPhA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQJbaBnZ2urtDs3n1rHSZo5zGJhAmF0UEHj-kZesZvYXqg&oe=6A9B4F03&_nc_sid=8b3546",
+      "isVideo": true,
+      "dimensions": {
+        "height": 1333,
+        "width": 750
+      }
+    },
+    {
+      "id": "3968872615610254589",
+      "shortcode": "DcURJ2sOYT9",
+      "typename": "GraphVideo",
+      "caption": "1 minuto do que é a experiência Supreme 🚀❤️\n\nPelas lentes e carinho de um amigo que me conheceu quando eu nem mesmo sabia se casava ou comprava uma bicicleta, um vídeo que retrata nossa real missão e experiência 🚀 não cuidamos de carros, cuidamos de pessoas, o atendimento é personalizado, humanizado e temos prazer que estejam conosco, sempre haverá café, cerveja e um abraço, o serviço vai ficar do jeito que você pensou e pediu. Literalmente somos O LUGAR ONDE TUDO SE RESOLVE ❤️ vem tranquilo a casa é nossa 😎",
+      "displayUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/776658674_17998784967006185_2880396831792315741_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEdjLK3hTRSI9KYmSJOfcLP2QCgpz6oibdw87ra8Y0X102AFRHHShPbfAv0kxWOjKk&_nc_ohc=to_IwWsAgCoQ7kNvwHZ4Jy1&_nc_gid=3rbrS1T03PVcTFE07MXPhA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQL8BgntwR84g6vj-ayXMGWwYo1RfGBYqJwgpUkC8C6Smg&oe=6A9B478A&_nc_sid=8b3546",
+      "thumbnailUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/776658674_17998784967006185_2880396831792315741_n.jpg?stp=c0.187.480.480a_dst-jpg_e15_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEdjLK3hTRSI9KYmSJOfcLP2QCgpz6oibdw87ra8Y0X102AFRHHShPbfAv0kxWOjKk&_nc_ohc=to_IwWsAgCoQ7kNvwHZ4Jy1&_nc_gid=3rbrS1T03PVcTFE07MXPhA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQI8cnDqLjog7UTAxKGWOuflbRw3DQoO2dpuYqzDIY1foA&oe=6A9B478A&_nc_sid=8b3546",
+      "isVideo": true,
+      "dimensions": {
+        "height": 854,
+        "width": 480
+      }
+    },
+    {
+      "id": "3968705251958847289",
+      "shortcode": "DcTrGZJO_c5",
+      "typename": "GraphImage",
+      "caption": "Visita ilustre de hoje 🚀❤️ Dia de cuidar dessa aeronave do Nutricionista Mais estiloso e inteligente de Vila Velha, \n1 Papo cabeça e a resenha  que é de lei \n2 Polimento, recuperação e blindagem de faróis \n3 higienização detalhada completa \n4 Amigo feliz de carro cuidado. Valeu irmão @nutri.nathan a casa é nossa ! 🚀❤️",
+      "displayUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/776718696_17998746843006185_9221087297404181476_n.jpg?stp=dst-jpg_e35_p1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEdjLK3hTRSI9KYmSJOfcLP2QCgpz6oibdw87ra8Y0X102AFRHHShPbfAv0kxWOjKk&_nc_ohc=kql8hqwpYK4Q7kNvwFxeJYe&_nc_gid=3rbrS1T03PVcTFE07MXPhA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQI2GQjd8_CSjKcz3xsLk7TjFUziju9ewQyRmbGk459UBg&oe=6A9B3865&_nc_sid=8b3546",
+      "thumbnailUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/776718696_17998746843006185_9221087297404181476_n.jpg?stp=c0.229.2659.2659a_dst-jpg_e35_s640x640_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEdjLK3hTRSI9KYmSJOfcLP2QCgpz6oibdw87ra8Y0X102AFRHHShPbfAv0kxWOjKk&_nc_ohc=kql8hqwpYK4Q7kNvwFxeJYe&_nc_gid=3rbrS1T03PVcTFE07MXPhA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQKsP4kBVI7_dYnwjmYu9cQg5qtLiOvJvjzabU652Z-tqA&oe=6A9B3865&_nc_sid=8b3546",
+      "isVideo": false,
+      "dimensions": {
+        "height": 1266,
+        "width": 1080
+      }
+    },
+    {
+      "id": "3967901497483199180",
+      "shortcode": "DcQ0WOdOgLM",
+      "typename": "GraphVideo",
+      "caption": "Polimento faz diferença ?❤️",
+      "displayUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/778973693_17998583013006185_6427879417304193636_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEdjLK3hTRSI9KYmSJOfcLP2QCgpz6oibdw87ra8Y0X102AFRHHShPbfAv0kxWOjKk&_nc_ohc=KWwc71Izn_4Q7kNvwEBy_xx&_nc_gid=3rbrS1T03PVcTFE07MXPhA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQIKsV-q0MNxy7pBMa8shnb8J9WBoFaceoArqOqqgw7VGA&oe=6A9B494C&_nc_sid=8b3546",
+      "thumbnailUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/778973693_17998583013006185_6427879417304193636_n.jpg?stp=c0.280.720.720a_dst-jpg_e15_s640x640_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEdjLK3hTRSI9KYmSJOfcLP2QCgpz6oibdw87ra8Y0X102AFRHHShPbfAv0kxWOjKk&_nc_ohc=KWwc71Izn_4Q7kNvwEBy_xx&_nc_gid=3rbrS1T03PVcTFE07MXPhA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQLRG3kvgN5gvLFkV673gc2vGFnxTSWpBVLM2rNDto4FrA&oe=6A9B494C&_nc_sid=8b3546",
+      "isVideo": true,
+      "dimensions": {
+        "height": 1333,
+        "width": 750
+      }
+    },
+    {
+      "id": "3960040584860290150",
+      "shortcode": "Db04-5Eukxm",
+      "typename": "GraphImage",
+      "caption": "FELIZ DIA DOS PAIS ! A Supreme deseja a todos os pais um dia incrível ! Parabéns por tudo que representam e nos ensinam todo dia, a casa é nossa ❤️ \n\n- que nosso Vasco sempre vença, e nossa cabeça nunca se perca ou aceite a derrota ❤️ te amo coroa.",
+      "displayUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/769692324_17996644728006185_4588421896519596045_n.jpg?stp=dst-jpg_e35_s1080x1080_sh2.08_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEdjLK3hTRSI9KYmSJOfcLP2QCgpz6oibdw87ra8Y0X102AFRHHShPbfAv0kxWOjKk&_nc_ohc=32s6cQ1v_3EQ7kNvwFuR88b&_nc_gid=3rbrS1T03PVcTFE07MXPhA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQJT8RFTbEj1rIEx0TwPyggLhTHHTlrSdgpz_7w__frW-Q&oe=6A9B2F2C&_nc_sid=8b3546",
+      "thumbnailUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/769692324_17996644728006185_4588421896519596045_n.jpg?stp=c200.0.1070.1070a_dst-jpg_e15_s640x640_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEdjLK3hTRSI9KYmSJOfcLP2QCgpz6oibdw87ra8Y0X102AFRHHShPbfAv0kxWOjKk&_nc_ohc=32s6cQ1v_3EQ7kNvwFuR88b&_nc_gid=3rbrS1T03PVcTFE07MXPhA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQJnNTMP8XY2ch9P4LKLzB5nX420lk0DKEIPuKOt-unPDg&oe=6A9B2F2C&_nc_sid=8b3546",
+      "isVideo": false,
+      "dimensions": {
+        "height": 786,
+        "width": 1080
+      }
+    },
+    {
+      "id": "3955619540510523413",
+      "shortcode": "DblLwOquUAV",
+      "typename": "GraphVideo",
+      "caption": "Comentou o carro do pai garantiu 50% off ! Vem ser Supreme você também ❤️",
+      "displayUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/763205580_17995664523006185_7870161620057051785_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEdjLK3hTRSI9KYmSJOfcLP2QCgpz6oibdw87ra8Y0X102AFRHHShPbfAv0kxWOjKk&_nc_ohc=VFpoZw-SoN0Q7kNvwHDd0fM&_nc_gid=3rbrS1T03PVcTFE07MXPhA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQLsOSsZEeE4qZTw_8IhT3b9Il_1wa5fcdUrrKuqRzTJww&oe=6A9B3019&_nc_sid=8b3546",
+      "thumbnailUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/763205580_17995664523006185_7870161620057051785_n.jpg?stp=c0.206.534.534a_dst-jpg_e15_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEdjLK3hTRSI9KYmSJOfcLP2QCgpz6oibdw87ra8Y0X102AFRHHShPbfAv0kxWOjKk&_nc_ohc=VFpoZw-SoN0Q7kNvwHDd0fM&_nc_gid=3rbrS1T03PVcTFE07MXPhA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQKPQDxAOSpLvrdtNj1GBGi3EkAFO5Y1dFgYQYcsIZqJug&oe=6A9B3019&_nc_sid=8b3546",
+      "isVideo": true,
+      "dimensions": {
+        "height": 1133,
+        "width": 640
+      }
+    },
+    {
+      "id": "3923702369589246232",
+      "shortcode": "DZzyoQ3ubkY",
+      "typename": "GraphVideo",
+      "caption": "O lugar onde tudo se resolve 🚀 \n\nTroca vidro? Vem ❤️ \nPolimento? Vem ❤️\nHigienização de bancos? Vem ❤️ \nHigienização de motor? Vem ❤️ \nCorte de cabelo? Vem ❤️ \nMelhor recepção do mundo ? Vem ❤️ \n\n#vilavelha #auto #vixx #vitrificação",
+      "displayUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/727799476_17988652446006185_8167369364353359736_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEdjLK3hTRSI9KYmSJOfcLP2QCgpz6oibdw87ra8Y0X102AFRHHShPbfAv0kxWOjKk&_nc_ohc=39ikZsJR_XwQ7kNvwFErgXG&_nc_gid=3rbrS1T03PVcTFE07MXPhA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQL48CAI4oPMKmG4PPFqxKSM8Ws9FPZOo2RFgtT84EWQNQ&oe=6A9B455F&_nc_sid=8b3546",
+      "thumbnailUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/727799476_17988652446006185_8167369364353359736_n.jpg?stp=c0.280.720.720a_dst-jpg_e15_s640x640_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEdjLK3hTRSI9KYmSJOfcLP2QCgpz6oibdw87ra8Y0X102AFRHHShPbfAv0kxWOjKk&_nc_ohc=39ikZsJR_XwQ7kNvwFErgXG&_nc_gid=3rbrS1T03PVcTFE07MXPhA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQIyxD1OygQ8yIkYbTbnkp8xEjkQSh1S8Wxc_dkMos7KfQ&oe=6A9B455F&_nc_sid=8b3546",
+      "isVideo": true,
+      "dimensions": {
+        "height": 1333,
+        "width": 750
+      }
+    },
+    {
+      "id": "3920051416373895520",
+      "shortcode": "DZm0f5uO6Fg",
+      "typename": "GraphVideo",
+      "caption": "Onde você corta o cabelo tem essa vista !? 😍 vem ser supreme você também 😎❤️",
+      "displayUrl": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/723960931_2024542764811616_7112633362895592607_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEdjLK3hTRSI9KYmSJOfcLP2QCgpz6oibdw87ra8Y0X102AFRHHShPbfAv0kxWOjKk&_nc_ohc=XFEP-r63TqoQ7kNvwFxs8ml&_nc_gid=3rbrS1T03PVcTFE07MXPhA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQLVN2jeW3eZ3mITVnzP_v8_TqT_JKIguUc507TWlI-SOA&oe=6A9B2D59&_nc_sid=8b3546",
+      "thumbnailUrl": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/723960931_2024542764811616_7112633362895592607_n.jpg?stp=c0.248.640.640a_dst-jpg_e15_tt6&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEdjLK3hTRSI9KYmSJOfcLP2QCgpz6oibdw87ra8Y0X102AFRHHShPbfAv0kxWOjKk&_nc_ohc=XFEP-r63TqoQ7kNvwFxs8ml&_nc_gid=3rbrS1T03PVcTFE07MXPhA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQJDmx7iV-cuZuHgwFHZEuQ37lJ0fwHqnNHVgyMjuGW8Gg&oe=6A9B2D59&_nc_sid=8b3546",
+      "isVideo": true,
+      "dimensions": {
+        "height": 1136,
+        "width": 640
+      }
+    },
+    {
+      "id": "3894845843625981972",
+      "shortcode": "DYNRai0O7gU",
+      "typename": "GraphVideo",
+      "caption": "Vitrificação do GEELY - EX5 - com o vitrificador da @sonaxbrasil  acabamento impecável, brilho inexplicável e proteção irrepreensível! Só falta fazer o seu, vem que o preço parece até mentira 😉❤️ \n\n#vilavelha #autodetailing #vitrificação #sonax #estética",
+      "displayUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/689902688_17983007568006185_1216784178066909319_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEdjLK3hTRSI9KYmSJOfcLP2QCgpz6oibdw87ra8Y0X102AFRHHShPbfAv0kxWOjKk&_nc_ohc=dgIhhvZnNMEQ7kNvwHD1KLT&_nc_gid=3rbrS1T03PVcTFE07MXPhA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQIkhgFfs5RzBxI046hmB6A8dx6fSQV1RFm3Kzf6njbBEw&oe=6A9B30CA&_nc_sid=8b3546",
+      "thumbnailUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.82787-15/689902688_17983007568006185_1216784178066909319_n.jpg?stp=c0.292.754.754a_dst-jpg_e15_s640x640_tt6&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEdjLK3hTRSI9KYmSJOfcLP2QCgpz6oibdw87ra8Y0X102AFRHHShPbfAv0kxWOjKk&_nc_ohc=dgIhhvZnNMEQ7kNvwHD1KLT&_nc_gid=3rbrS1T03PVcTFE07MXPhA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AQLPvVj6XoAnPmvG9MmRcy9B7Iho8EX5-j0iw_qt7CNHSg&oe=6A9B30CA&_nc_sid=8b3546",
+      "isVideo": true,
+      "dimensions": {
+        "height": 1916,
+        "width": 1080
+      }
+    }
+  ]
+}
