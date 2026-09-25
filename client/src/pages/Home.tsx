@@ -39,7 +39,7 @@ const realImages = {
   space: assetPath("assets/space.jpg"),
   barber: assetPath("assets/barber-real.jpg"),
   videoCover: assetPath("assets/video-cover.jpg"),
-  video: "/manus-storage/supreme-clube-instagram-video-dh-bt2_baec5ea8.mp4",
+  video: assetPath("assets/supreme-clube-instagram-video-dh-bt2.mp4"),
   barberBeard: assetPath("assets/barber-treated-beard.webp"),
   barberFamily: assetPath("assets/barber-treated-family.webp"),
   barberAgenda: assetPath("assets/barber-treated-agenda.webp"),
